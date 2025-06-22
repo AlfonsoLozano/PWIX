@@ -1,0 +1,14 @@
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.AssemblyInfoInputs.cache
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.AssemblyInfo.cs
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.csproj.CoreCompileInputs.cache
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/bin/Debug/net8.0/UFVTrain
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/bin/Debug/net8.0/UFVTrain.deps.json
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/bin/Debug/net8.0/UFVTrain.runtimeconfig.json
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/bin/Debug/net8.0/UFVTrain.dll
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/bin/Debug/net8.0/UFVTrain.pdb
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.dll
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/refint/UFVTrain.dll
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.pdb
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/UFVTrain.genruntimeconfig.cache
+/Users/alfonsolozano/P1/UFVTrain/UFVTrain/obj/Debug/net8.0/ref/UFVTrain.dll

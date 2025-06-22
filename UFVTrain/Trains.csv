@@ -1,0 +1,15 @@
+P1,30,passenger,8,400
+P2,45,passenger,10,500
+P3,60,passenger,12,600
+P4,15,passenger,6,300
+P5,90,passenger,15,800
+P6,120,passenger,20,1000
+P7,105,passenger,18,900
+P8,13500,passenger,22,1100
+F1,30,freight,20000,coal
+F2,45,freight,15000,containers
+F3,60,freight,18000,liquids
+F4,75,freight,22000,grain
+F5,90,freight,25000,vehicles
+F6,105,freight,17000,wood
+F7,120,freight,30000,oil
